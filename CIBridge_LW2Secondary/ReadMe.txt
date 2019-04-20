@@ -1,0 +1,1 @@
+﻿Adjusts LW2 Secondary Weapons for use with Covert Infiltration 
