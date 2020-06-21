@@ -16,10 +16,7 @@
     <Content Include="Config\XComInfiltration.ini">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Config\XComStrategyTuning.ini">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Config\XComWeaponTuning.ini">
+    <Content Include="Config\XComLW2SecondariesWOTC.ini">
       <SubType>Content</SubType>
     </Content>
     <Content Include="ReadMe.txt" />
